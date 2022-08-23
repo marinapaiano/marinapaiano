@@ -1,5 +1,14 @@
 ### Oi, eu sou a Marina 👋
 
+
+🔭 Estou trabalhando como Analista de Dados e domino SQL e visualização de dados
+
+🌱 Atualmente estou aprendendo Python e ETL
+
+📫 Para falar comigo, me chame no LinkedIn: https://www.linkedin.com/in/marina-paiano/
+
+
+
 <!--
 **marinapaiano/marinapaiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
