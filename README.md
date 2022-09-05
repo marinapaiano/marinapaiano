@@ -1,7 +1,7 @@
 ### Oi, eu sou a Marina 👋
 
 
-- 🔭 Trabalho como Analista de Dados e uso **SQL** e Excel diariamente
+- 🔭 Trabalho como Analista de Dados e uso **SQL**, Excel, **Tableau** e Power BI
 
 - 🌱 Estou aprendendo **Python**
 
