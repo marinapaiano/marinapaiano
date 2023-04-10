@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **SQL** e **visualização de dados**
 
-- 📫 Para falar comigo, me chame no LinkedIn: https://www.linkedin.com/in/marina-paiano/
+- 📫 Para falar comigo, me chame no LinkedIn: https://www.linkedin.com/in/marinapaiano/
 
 
 
